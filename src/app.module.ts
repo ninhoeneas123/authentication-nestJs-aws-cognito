@@ -15,7 +15,7 @@ import { MongooseModule } from '@nestjs/mongoose';
   ],
   controllers: [],
   providers: [
-    AppService, 
+    AppService,
     AuthConfig,
   ],
 })
